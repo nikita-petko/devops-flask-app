@@ -10,4 +10,4 @@ def index():
 
 @app.route('/about')
 def say_hello():
-    return '<p>Welcome, I am a Flask app!</p>'
+    return '<p>Conflict, I am a Flask app!</p>'
